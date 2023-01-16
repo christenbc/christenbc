@@ -2,7 +2,7 @@
 
 ## I'm Christen Blom-Dahl
 
-- ⚙️ Industrial Engineer with specialization in 🤖 Machine Learning & Robotics
+- ⚡️⚙️ Industrial Engineer with specialization in 🤖 Machine Learning & Robotics
 
 - I started in the world of 👾 software engineering a couple of years ago as a way of digital ⛵️ entrepreneurship
 
