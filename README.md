@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**chbloca/chbloca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Christen Blom-Dahl
 
-Here are some ideas to get you started:
+- ⚙️ Industrial Engineer with specialization in 🤖 Machine Learning & Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I started in the world of 👾 software engineering a couple of years ago as a way of digital ⛵️ entrepreneurship
+
+- Currently 🦋 Flutter is my way to do the stuff
+
+- Take a look on my 💻 website to learn about my experience
+
+- My interests:
+  - 🦾 AI
+  - 🤖 Robotics
+  - ፨ Decentralized Internet
+  - ⚛️ Science
+  - 🔭 Technology (not just software & electronics)
