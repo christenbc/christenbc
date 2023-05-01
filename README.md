@@ -6,7 +6,7 @@
 
 - I started in the world of 👾 software engineering a couple of years ago as a way of digital ⛵️ entrepreneurship
 
-- Currently 🦋 Flutter is my way to do the stuff
+- Currently Flutter is my way to do the stuff
 
 - Take a look on my 💻 website to learn about my experience
 
