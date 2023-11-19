@@ -9,3 +9,5 @@
   - Kaptue
   - Destinno
 - ⚡️⚙️ Graduated as Industrial Engineer with specizalized in 🤖 Machine Learning & Robotics
+
+Don't forget to check out my [website](https://christenbc.github.io/).
