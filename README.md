@@ -1,7 +1,7 @@
 # About me
 
 - Currently working in multiplatform apps (web included)
-- Serial entrepreneur using Flutter & Firebase
+- Serial entrepreneur
   - Opetaya
   - Lever8Trade
   - Resumine
