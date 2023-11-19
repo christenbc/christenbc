@@ -1,7 +1,11 @@
-### Hi there 👋
+# About me
 
-## I'm Christen Blom-Dahl
-
-- ⚡️⚙️ Industrial Engineer with specizalized in 🤖 Machine Learning & Robotics
-- Serial entrepreneur using Flutter (Google framework)
-- Multiplatform app and web developer
+- Currently working in multiplatform apps (web included)
+- Serial entrepreneur using Flutter & Firebase
+  - Opetaya
+  - Lever8Trade
+  - Resumine
+- Freelanced with a unique client two projects
+  - Kaptue
+  - Destinno
+- ⚡️⚙️ Graduated as Industrial Engineer with specizalized in 🤖 Machine Learning & Robotics
