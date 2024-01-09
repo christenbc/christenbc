@@ -11,7 +11,7 @@
 - Contributed to the launch of a Saas of an EdTech 👩🏻‍🏫 startup
   - Jolly Classroom (Web)
 - Worked in an aerospace 🛩️ factory as an MRO engineer
-- ⚡️⚙️ Graduated as Industrial Engineer with specizalized in 🤖 Machine Learning & Robotics
+- ⚡️⚙️ Graduated as Industrial Engineer with specialized in 🤖 Machine Learning & Robotics
 
 ---
 
