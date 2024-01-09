@@ -1,4 +1,4 @@
-# About me 🧐
+# About me
 
 - Currently working in multiplatform app 🧑🏼‍💻 technologies (web included)
 - Serial entrepreneur 🎰
