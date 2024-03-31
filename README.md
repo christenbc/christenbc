@@ -20,6 +20,7 @@ Some of my experience:
 ![](https://img.shields.io/badge/Stripe-grey?logo=stripe)
 ![](https://img.shields.io/badge/RevenueCat-grey?logo=revenuecat)
 ![](https://img.shields.io/badge/Algolia-grey?logo=algolia)
+![](https://img.shields.io/badge/Typesense-grey?logo=typesense)
 ![](https://img.shields.io/badge/Apollo_GraphQL-grey?logo=apollographql)
 ![](https://img.shields.io/badge/Protobuf-grey?logo=googleforms)
 ![](https://img.shields.io/badge/NPM-grey?logo=npm)
@@ -35,3 +36,4 @@ Some of my experience:
 ![](https://img.shields.io/badge/Inventor-grey?logo=autodesk)
 ![](https://img.shields.io/badge/PTC_Creo-grey?logo=webpack)
 ![](https://img.shields.io/badge/SAP-grey?logo=sap)
+![](https://img.shields.io/badge/Microsoft_office-grey?logo=microsoftteams)
