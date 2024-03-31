@@ -37,3 +37,4 @@ Some of my experience:
 ![](https://img.shields.io/badge/PTC_Creo-grey?logo=webpack)
 ![](https://img.shields.io/badge/SAP-grey?logo=sap)
 ![](https://img.shields.io/badge/Microsoft_office-grey?logo=microsoftteams)
+![](https://img.shields.io/badge/Google_docs-grey?logo=google)
